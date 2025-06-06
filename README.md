@@ -8,6 +8,11 @@ This work is described in the following paper:
 **HurriCast: Synthetic Tropical Cyclone Track Generation for Hurricane Forecasting**  
 [Read the paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230907174G/abstract)
 
+### Poster and Slides
+- 📄 [View Poster](https://github.com/Picomp-lab/Hurricast/blob/main/HurriCast%20Poster.pdf)
+- 📊 [View Slides](https://github.com/Picomp-lab/Hurricast/blob/main/HurriCast%20Slides.pdf)
+
+
 ### Requirements
 - Python 3.8+
 - PyTorch
