@@ -3,6 +3,11 @@
 ### Overview
 Hurricast is a deep learning model for generating synthetic hurricane tracks using a Conditional Variational Autoencoder (CVAE) architecture. The model is implemented in PyTorch and can generate realistic hurricane trajectories based on historical data.
 
+This work is described in the following paper:
+
+**HurriCast: Synthetic Tropical Cyclone Track Generation for Hurricane Forecasting**  
+[Read the paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230907174G/abstract)
+
 ### Requirements
 - Python 3.8+
 - PyTorch
